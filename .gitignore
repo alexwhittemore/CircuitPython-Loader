@@ -1,0 +1,5 @@
+.env/*
+CIRCUITPY/*
+!CIRCUITPY/readme.md
+launch.json
+settings.json
