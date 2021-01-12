@@ -1,4 +1,11 @@
-""" loader.py waits for a CIRCUITPY drive to appear, erases it, copies the contents of ./CIRCUITPY to it, and waits for another. """
+"""
+`loader.py` - Automatic CircuitPython program loader
+====================================================
+Waits for a CIRCUITPY drive to appear, erases it, copies the
+contents of ./CIRCUITPY to it, and waits for another.
+
+* Author(s): alexwhittemore
+"""
 import os
 import time
 import platform
