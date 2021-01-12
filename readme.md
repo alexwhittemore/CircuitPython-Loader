@@ -3,6 +3,8 @@ This is a simple script that waits for a CIRCUITPY drive to appear, erases all f
 
 Requires Python 3.8+
 
+Currently only tested and functional on macOS 10.15 Catalina.
+
 ## Usage
 
 1) Download loader.py
